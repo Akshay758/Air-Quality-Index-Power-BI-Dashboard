@@ -132,18 +132,4 @@ Contributions, issues, and feature requests are welcome! Feel free to open a [Gi
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-
----
-
 > *"Data is the new clean air — let's use it to protect the real thing."*
